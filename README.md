@@ -1,6 +1,6 @@
 
 
-<h1 align="center">BATTACK v1.0</h1><p align="center">      SMS BOMBING & CALL BOMBING TOOL FOR TERMUX USERS</p>
+<h1 align="center">Attack Ts v1.9</h1><p align="center">      SMS BOMBING & CALL BOMBING TOOL FOR TERMUX USERS</p>
 
 ## ***About Tool***:
 
@@ -17,7 +17,7 @@ $ pkg install pip
 $ pkg install pip2
 $ pip2 install requests
 $ pip2 install mechanize
-$ 
+$ https://github.com/H4abir/Abir-sms--
 ```
 
 ## Tools Run :
